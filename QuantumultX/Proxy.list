@@ -1,0 +1,9 @@
+# > Proxy better(建议代理)
+HOST-SUFFIX,bowenpress.com,PROXY
+HOST-SUFFIX,1password.com,PROXY
+HOST-SUFFIX,modpim.com,PROXY
+HOST,public.bl.files.1drv.com,PROXY
+HOST-SUFFIX,microsoft.com,PROXY
+HOST-SUFFIX,live.com,PROXY
+HOST-SUFFIX,msocdn.com,PROXY
+HOST-SUFFIX,gfw.cat,PROXY
