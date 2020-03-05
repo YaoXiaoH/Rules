@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,gfw.cat
 DOMAIN-SUFFIX,meiwen.com.cn
+DOMAIN-SUFFIX,limbopro.xyz
+IP-CIDR,52.130.74.107,no-resolve
